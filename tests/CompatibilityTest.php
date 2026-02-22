@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Phplrt\Contracts\Parser\Tests;
 
 use Phplrt\Contracts\Parser\ParserInterface;
+use PHPUnit\Framework\TestCase;
 
 /**
  * Note: Changing the behavior of these tests is allowed ONLY when updating
